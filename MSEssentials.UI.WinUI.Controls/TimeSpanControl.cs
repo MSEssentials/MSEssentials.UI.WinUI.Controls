@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleToolkit.UI.WinUI.Controls
+namespace MSEssentials.UI.WinUI.Controls
 {
     public class TimeSpanControl : Grid
     {

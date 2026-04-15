@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToolkit.UI.WinUI.Controls", "SimpleToolkit.UI.WinUI.Controls\SimpleToolkit.UI.WinUI.Controls.csproj", "{79498846-9925-4570-B88A-8D587559E443}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSEssentials.UI.WinUI.Controls", "MSEssentials.UI.WinUI.Controls\MSEssentials.UI.WinUI.Controls.csproj", "{79498846-9925-4570-B88A-8D587559E443}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
